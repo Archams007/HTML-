@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Task pending...</title>
+</head>
+<body>
+<header>
+ <img src="logo.png" width= "200px" height="200px"  alt="" >
+<nav>
+<ul>
+<li><a href="https://www.w3schools.com/html/default.asp">why this is a list</a> </li>
+<li><a href= "https://www.w3schools.com/html/default.asp"> remove and update</a></li>
+<li><a href="https://www.w3schools.com/html/default.asp">with other links to href</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<section>
+<h1>Hello World</h1>
+<p>This is your first task. Do read the instructions below:</p>
+<br>
+<ul>
+<li>Find the missing elements and attributes in the html code.</li>
+<li>Read the full code, then apply your knowledge.</li>
+<li>You can refer from the <a href="https://www.w3schools.com/html/default.asp">website</a> </li>
+<li>Have <span><em>fun!!!</em></span></li>
+</ul>
+</section>
+<section>
+<form>
+    <fieldset>
+    <legend>Gender</legend>
+        <label>
+             <input type="radio" name= "0%" value= "Male">
+            Male
+        </label>
+        <label>
+            <input type="radio" name= "0%" value= "Female">
+            Female
+        </label>
+        
+          </fieldset>
+          <br>
+          <fieldset>
+              <legend>Covid Symptoms</legend>
+              <label>
+                <input type="checkbox" name= "off" value= "cough">
+               cough
+           </label>
+           <label>
+               <input type="checkbox" name= "off" value= "sneezing">
+               sneezing
+           </label>
+           <label>
+            <input type="checkbox" name= "off" value= "cold">
+           cold
+       </label>
+       <label>
+                  <input type="checkbox" name= "off" value= "throat pain">
+           throat pain
+       </label>
+        </fieldset>
+        <br>
+<label>
+    Email\
+    <input name= "Email" type="email">
+</label>
+<br>
+<br>
+<label>
+    Comments
+    <textarea name="comments"></textarea>
+</label>
+<br>
+<br>
+</form>
+
+<label for="">
+Name
+<input type="text">
+</label>
+<br>
+<br>
+
+<h2>hello world</h2> 
+/div>
+<br>
+<b>In this section: I am going to give you task to change the title of the website to 'Task Pending...'</b>
+</section>
+</main>
+<br>
+<div> <footer><P>created by ARCHA &#169 2022 </p></footer></div>
+</body>
+</html>
